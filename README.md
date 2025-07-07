@@ -1,4 +1,4 @@
-# 🌐 N Shruthi - Developer Portfolio
+# 🌐 Nanam Shruthi - Developer Portfolio
 
 Welcome to my personal developer portfolio website, built using **HTML**, **CSS**, and hosted via **GitHub Pages**. This site showcases my skills, projects, education, and achievements in the field of software development and data science.
 
