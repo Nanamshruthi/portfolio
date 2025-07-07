@@ -6,8 +6,7 @@ Welcome to my personal developer portfolio website, built using **HTML**, **CSS*
 
 ## 🚀 Live Portfolio
 
-🔗 [Visit My Live Site](https://yourusername.github.io/portfolio/)  
-*(Replace `yourusername` with your GitHub username once deployed)*
+🔗 [Visit My Live Site](https://Nanamshruthi.github.io/portfolio/)  
 
 ---
 
@@ -30,7 +29,14 @@ Welcome to my personal developer portfolio website, built using **HTML**, **CSS*
 ---
 
 ## 📁 Folder Structure
-
+portfolio/
+├── index.html
+├── about.html
+├── projects.html
+├── contact.html
+├── resume.pdf
+├── style.css
+└── README.md
 
 ---
 
