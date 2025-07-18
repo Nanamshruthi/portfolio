@@ -6,7 +6,7 @@ Welcome to my personal developer portfolio website, built using **HTML**, **CSS*
 
 ## 🚀 Live Portfolio
 
-🔗 [Visit My Live Site](https://Nanamshruthi.github.io/portfolio/)  
+🔗 [Visit My Live Site](https://github.com/Nanamshruthi/portfolio)  
 
 ---
 
